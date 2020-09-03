@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "External_Mitigations", "External_Mitigations\External_Mitigations.csproj", "{EC283098-D1AB-40E6-9110-C77FCCAD11E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC283098-D1AB-40E6-9110-C77FCCAD11E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC283098-D1AB-40E6-9110-C77FCCAD11E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC283098-D1AB-40E6-9110-C77FCCAD11E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC283098-D1AB-40E6-9110-C77FCCAD11E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16322E98-5CB8-4C87-9C79-6EA0B136F26F}
+	EndGlobalSection
+EndGlobal
